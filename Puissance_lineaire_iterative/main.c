@@ -2,9 +2,6 @@
 #include <stdlib.h>
 
 long long puissance_lineaire_iterative(long long a, unsigned int n){
-    if (n==0)
-        return 1;
-
     long long resultat = 1;
     for (int i=0; i<n; i++){
         resultat *= a;
