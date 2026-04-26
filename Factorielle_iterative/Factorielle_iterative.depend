@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1777224091 source:d:\mes études\nouveau étude\algorithme_avancée\exo\algorithme_avancee\factorielle_iterative\main.c
+	<stdio.h>
+	<stdlib.h>
+
